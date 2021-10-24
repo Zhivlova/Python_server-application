@@ -1,0 +1,25 @@
+{
+    "orders": [
+        {
+            "buyer": "Mike",
+            "date": "04.03.2021",
+            "item": "Macbook",
+            "price": "216000",
+            "quantity": "1"
+        },
+        {
+            "buyer": "Sam",
+            "date": "14.08.2021",
+            "item": "Asus",
+            "price": "110000",
+            "quantity": "1"
+        },
+        {
+            "buyer": "Kate",
+            "date": "21.11.2021",
+            "item": "Sony",
+            "price": "190000",
+            "quantity": "1"
+        }
+    ]
+}
