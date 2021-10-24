@@ -1,0 +1,9 @@
+action_list:
+- msg_1
+- msg_2
+- msg_3
+number: 1
+to_list:
+  name1: €Ali
+  name2: ©Nick
+  name3: ©Bob
